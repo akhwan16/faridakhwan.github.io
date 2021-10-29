@@ -2,10 +2,12 @@
   padding-top: 6rem;
   background-color: #b4ceb1;
 }
-
 #projects {
   background-color: #b4ceb1;
 }
 section {
   padding-top: 5rem;
+}
+.offcanvas {
+  width: 9rem;
 }
